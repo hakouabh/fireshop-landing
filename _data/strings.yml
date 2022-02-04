@@ -1,13 +1,13 @@
 app:
   screenshots: Screenshots
   description: Description
-  featured: Featured in
+  featured: Présenté dans
 
 footer:
-  copyright: Made with ❤️ in Europe 🇪🇺 by <a href="https://www.sandoche.com" target="_blank">Sandoche</a>
+  copyright: Créer avec ❤️ en Algérie par <a href="https://www.sandoche.com" target="_blank">Megherbi Abdelhak</a>
   links:
     - title: Github
-      url: https://github.com/sandoche/Mobile-app-landingpage-template
+      url: https://github.com/hakouabh
       target: _blank
     - title: Donate
       url: https://paypal.me/kanbanote
