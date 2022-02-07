@@ -1,16 +1,12 @@
 app:
   screenshots: Screenshots
   description: Description
-  featured: Présenté dans
 
 footer:
-  copyright: Créer avec ❤️ en Algérie par <a href="https://www.sandoche.com" target="_blank">Megherbi Abdelhak</a>
+  copyright: Créer avec ❤️ en Algérie par <a href="https://www.linkedin.com/in/abdelhak-megherbi-64747a1a4/" target="_blank">Megherbi Abdelhak</a>
   links:
     - title: Github
       url: https://github.com/hakouabh
-      target: _blank
-    - title: Donate
-      url: https://paypal.me/kanbanote
       target: _blank
     - title: Privacy
       url: /privacy
