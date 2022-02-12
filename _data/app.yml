@@ -9,7 +9,7 @@ full_description: 'Fireshop est une application destinée aux Boutiques. Elle pe
 <br>- 📑 Produits les plus vendus.
 <br>- 🔑 Paramètres de profil'
 android: https://telegra.ph/Replace-this-link-07-23
-iOS: https://telegra.ph/Replace-this-link-07-23
+iOS: https://github.com/hakouabh/fireshop-hope-ui/releases/download/untagged-fda9bed90fb6d3b3bca6/Fireshop-2.0.3.dmg
 screenshots:
   - 1.png
   - 2.png
@@ -19,3 +19,4 @@ screenshots:
   - 6.png
   - 7.png
   - 8.png
+  - 9.png
