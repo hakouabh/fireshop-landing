@@ -8,8 +8,8 @@ full_description: 'Fireshop est une application destinée aux Boutiques. Elle pe
 <br>- 📉 Statistiques et Graphique de la semaine (NOUVEAU!!!).
 <br>- 📑 Produits les plus vendus.
 <br>- 🔑 Paramètres de profil'
-android: https://github.com/hakouabh/fireshop-landing/releases/download/untagged-5f2e3cff47d78c93cae6/FireshopSetup.exe
-iOS: https://github.com/hakouabh/fireshop-landing/releases/download/untagged-5f2e3cff47d78c93cae6/Fireshop-2.0.4.dmg
+android: https://github.com/hakouabh/fireshop-landing/releases/download/v2.0.4/FireshopSetup.exe
+iOS: https://github.com/hakouabh/fireshop-landing/releases/download/v2.0.4/Fireshop-2.0.4.dmg
 screenshots:
   - 1.png
   - 2.png
